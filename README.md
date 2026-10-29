@@ -69,11 +69,12 @@ The Silver layer organizes raw data into structured relational tables to support
 
 ```text
 ecommerce-sales-analytics/
-├── ecommerce-sales-analytics/
+├── data/
+├── etl/
 ├── sql/
 ├── .env.example
 ├── .gitignore
-├── requirements.txt
+├── uv.lock
 └── README.md
 ```
 
